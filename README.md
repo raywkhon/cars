@@ -6,4 +6,4 @@ resource_files:
 - .gitignore
 ---
 # cars
-This tutorial teaches you to create R Markdown documents with RStudio and publish them via GitHub, using GitHub Pages.
+This tutorial teaches you to create R Markdown documents with RStudio and publish them via GitHub, using GitHub Pages. 2nd attempt
